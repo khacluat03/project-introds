@@ -1,0 +1,61 @@
+STT,Họ và tên,Lớp,Mã chủ đề,Đánh giá,Ý kiến
+1,Lê Xuân Yến,DHQT15F,CSVC,-1,Kẹt thang máy kẹt xe quá nhiều
+2,Võ Văn Tân,DHQT15F,CSVC,1,Rất tốt
+3,Nguyễn Hồng Thuý,DHQT15F,CSVC,-1,"Kẹt xe, kẹt thang máy, máy chiếu đôi lúc trục trặc"
+4,Võ Tấn Đạt,DHQT15F,CSVC,-1,"Thấp, chật trường ko có cơ sở 2 , kém "
+5,Đặng Thị Tuyết Nhi,DHQT15C,CSVC,-1,"Kẹt xe quá nhiều, cần thêm nhà xe đủ rộng"
+6,Phạm Thu Hà,DHQT15C,CSVC,0,Tương đối ổn
+7,Cao Trần Thành Nhựt ,DHQT15C,CSVC,1,Tốt 
+8,Hồ Tiến Đạt,DHQT15C,CSVC,-1,Bãi giữ xe sinh viên không đáp ứng nhu cầu
+9,Lê Anh Quang ,DHCT16A,CSVC,0,"Kẹt xe, ngoài ra cơ sở vật chất khác vẫn ổn"
+10,Ngọc Ngân,DHCT16A,CSVC,0,nên có bãi giữ xe rộng hơn
+11,Nguyễn Minh Thuận,DHCT16A,CSVC,0,"ổn, bãi gửi xe diện tích quá nhỏ"
+12,Hồ Nam Thuận,DHCT16A,CSVC,-1,Gửi xe mất mỹ quan
+13,Nguyễn Thị Hương Quỳnh,DHQT16E,GV,-1,"Chưa có gì là chất lượng trong giảng dạy, tiếp cận sinh viên"
+14,Vũ Duy Khánh,DHQT16E,GV,1,Giảng viên tốt
+15,Nguyễn Văn Quốc,DHQT16E,GV,1,"Giảng viên rất là ok, lên lớp đúng giờ"
+16,Vũ Mạnh Đạt,DHQT16E,GV,0,"Tùy giảng viên, đa phần lên chưa đúng giờ, phương pháp giảng dạy tương đối ổn"
+17,Hoàng Trọng Vĩnh ,DHAV17C,GV,-1,Tệ
+18,Nguyễn Sinh,DHAV17C,GV,1,Giảng viên trường mình 10 điểm
+19,Dương Mỹ Giang,DHAV17C,GV,0,"Một số giảng viên nhiệt tình, dạy rất ổn, một số giảng viên chưa truyền tải kiến thức sâu rộng đến sinh viên"
+20,Phạm Nguyễn Trúc Liễu,DHAV17C,GV,1,"Tận tâm, Tùy giảng viên có cách dạy khác nhau"
+21,Trương Thành Thảo,DHKHDL17A,GV,1,"Tốt, giảng dạy đến sinh viên nhiệt tình"
+22,Nguyễn Thanh Hoài,DHKHDL17A,GV,1,"Giảng viên tích cực truyền đạt, nhiệt huyết "
+23,Đào Xuân Hoàng Tuấn,DHKHDL17A,GV,1,"Lên lớp đúng giờ, giảng dạy tận tình, truyền đạt kiến thức dễ hiểu, hỗ trợ sinh viên nhiệt tình"
+24,Nguyễn Văn Hiên,DHKHDL17A,GV,1,Có chuyên môn tốt
+25,Phạm Ngọc Như Ý,DHOT17G,CTDT,1,Các môn bám sát ngành học
+26,Võ Lương Kiệt ,DHOT17G,CTDT,1,có sự đầu tư nghiên cứu về các môn học
+27,Trần Kế Tuấn Vương,DHOT17G,CTDT,1,các môn học được sắp xếp theo trình tự hợp lí và đáp ứng được kiến thức với công việc sau này
+28,Đặng Thị Kim Nhàn,DHOT17G,CTDT,1,Tuyệt vời
+29,Vũ Minh Hiếu,DHQT17ETT,CTDT,1,Quá phù hợp với ngành mình học
+30,Lê Nguyễn Thảo My,DHQT17ETT,CTDT,1,Có bám sát vào ngành học
+31,Phạm Văn Trông,DHQT17ETT,CTDT,-1,Môn học đại cương khá nhiều cần lượt bớt thay vào đó cũng cần đa dạng hoá hơn về các môn chuyên ngành
+32,Võ Hoàng Phúc,DHQT17ETT,CTDT,1,Bám sát kiến thức cho ra trường
+33,Lê Huỳnh Quốc Cường,DHMK17A ,CTDT,1,Chương trình đào tạo tốt
+34,Nguyễn Thị Hương Giang,DHMK17A ,CTDT,1,Chương trình đào tạo của ngành mình thì ổn
+35,Nguyễn Thị Ty Ty,DHMK17A ,CTDT,1,Chương trình đào tạo theo sát ngành học
+36,Võ Mạnh Hiếu,DHMK17A ,CTDT,1,Chương trình đào tạo của trường OK
+37,Châu Đăng Khoa,DHCK17C,CTSV,0,Cần làm việc công tâm. Nên lắng nghe có chọn lọc những ý kiến phản hồi của sinh viên
+38,Đặng Văn Cường ,DHCK17C,CTSV,0,Không ý kiến
+39,Tống Thành Lộc,DHCK17C,CTSV,1,Tốt
+40,Lê Thị Thúy Kiều ,DHCK17C,CTSV,1,Nhiệt huyết 
+41,Phan Văn Lợi,DHCNTT17B,CTSV,1,đồng ý
+42,Trương Trọng Hậu,DHCNTT17B,CTSV,1,"thầy cô rất nhiệt tình, sôi động"
+43,Nguyễn Thị Thanh An,DHCNTT17B,CTSV,1,"Thầy cô nhiệt tình, giải quyết các vấn đề khá nhanh"
+44,Trần Văn Quyến,DHCNTT17B,CTSV,1,Thầy cô nhiệt tình
+45,Lê Thị Hồ My,DHKTKT17D,CTSV,-1,"Chưa thật sự giải đáp thắc mắc cho sinh viên, cần cải thiện chất lượng công tác hơn"
+46,Nguyễn Thị Nga,DHKTKT17D,CTSV,1,Hỗ trợ nhiệt tỉnh
+47,Nguyễn Việt Đức,DHKTKT17D,CTSV,1,"Công tác sinh viên luôn giải quyết các vấn đề của sinh viên, rất nhiệt tình"
+48,Nguyễn Nhựt Anh,DHKTKT17D,CTSV,0,Mình chưa tiếp xúc nên chưa biết
+49,Lê Quang Anh,DHIOT17B,TVTS,0,Bình thường
+50,Nguyễn Huỳnh Hoàng Anh,DHIOT17B,TVTS,1,"Tương đối ổn, hỗ trợ để có thể ứng tuyển vào trường 1 cách tốt nhất"
+51,Trần Minh Thuận ,DHIOT17B,TVTS,1,"Ban tư vấn tuyển sinh nhiệt tình hỗ trợ, giải đáp các thắc mắc của các bạn, các thầy cô, các bạn trong ban tư vấn rất nhiệt tình, đầy đủ kiến thức để tư vấn cho các bạn"
+52,Trần Anh Thư,DHIOT17B,TVTS,1,Hỗ trợ nhiệt tình
+53,Trương Nguyễn Tuyết Nhi,DHMK18C,TVTS,1,"Trải nghiệm được tư vấn tuyển sinh của em khá tốt. Các anh chị nhiệt tình tư vấn và hỗ trợ, giải đáp thắc mắc. Nên thực hiện rộng rãi hơn"
+54,Nguyễn Hoàng Minh,DHMK18C,TVTS,0,Không ý kiến
+55,Nguyễn Trần Thiên Uy,DHMK18C,TVTS,1,"Các anh/ chị, thầy/ cô đều hỗ trợ sinh viên hỗ trợ nhiệt tình với tinh thần và sự nhiệt huyết."
+56,Nguyễn Ngọc Triều,DHMK18C,TVTS,0,"Tư vấn tuyển sinh có giải đáp được thắc mắc, tư vấn tuyển sinh nên diễn ra ở nhiều nền tảng hơn, tổ chức với quy mô lớn hơn"
+57,Nguyễn Trà My,DHLH18F,TVTS,1,Chất lượng tốt
+58,Võ Ngọc Huỳnh Trân,DHLH18F,TVTS,1,Hỗ trợ nhiệt tình
+59,Thi Duy Lễ,DHLH18F,TVTS,1,Nhiệt tình hỗ trợ giải đáp thắc mắc 
+60,Đỗ Khánh Thành ,DHLH18F,TVTS,1,"Hỗ trợ cho sinh viên. Giải đáp thắc mắc, nhiệt tình, khá hài lòng"
