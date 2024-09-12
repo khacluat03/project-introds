@@ -1,4 +1,7 @@
-### **Nhập Môn Khoa Học Dữ Liệu**
+<div align="center">
+  <h1><strong>NHẬP MÔN KHOA HỌC DỮ LIỆU</strong></h1>
+</div>
+
 **Giới thiệu**
 Học phần "Nhập môn Khoa học Dữ liệu" cung cấp cái nhìn tổng quan và nền tảng vững chắc về các khái niệm và kỹ thuật trong khoa học dữ liệu. Khóa học giúp sinh viên làm quen với quy trình thu thập, phân tích, và trực quan hóa dữ liệu, cũng như áp dụng các thuật toán cơ bản trong Machine Learning. Ngoài ra, học phần này trang bị các công cụ và phương pháp để xử lý dữ liệu thực tế và phát triển mô hình dự báo.
 
